@@ -2,10 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://dpavle.me/categories/</loc>
+    <loc>https://dpavle.me/categories/</loc>
   </url><url>
-    <loc>http://dpavle.me/</loc>
+    <loc>https://dpavle.me/</loc>
   </url><url>
-    <loc>http://dpavle.me/tags/</loc>
+    <loc>https://dpavle.me/tags/</loc>
   </url>
 </urlset>
